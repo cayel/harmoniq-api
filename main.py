@@ -1,10 +1,20 @@
 from fastapi import FastAPI, HTTPException, Path
+from fastapi.middleware.cors import CORSMiddleware  # Import du middleware CORS
 from pathlib import Path as FilePath  # Renommé pour éviter les conflits
 from typing import List, Dict, Any
 import json
 import uvicorn  # Ajout de l'importation de uvicorn
 
 app = FastAPI()
+
+# Configuration CORS pour autoriser toutes les origines
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Autoriser toutes les origines
+    allow_credentials=True,
+    allow_methods=["*"],  # Autoriser toutes les méthodes HTTP
+    allow_headers=["*"],  # Autoriser tous les en-têtes
+)
 
 # Précharger les données du fichier rankings.json
 RANKINGS_FILE = FilePath("data/rankings.json")
