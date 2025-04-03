@@ -1,0 +1,242 @@
+[
+    {
+        "rank": 40,
+        "artist": "Live",
+        "title": "‘Throwing Copper’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140513-throwingcopper-1800-1397055271.jpg?w=300"
+    },
+    {
+        "rank": 39,
+        "artist": "Bush",
+        "title": "‘Sixteen Stone’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140520-bush-1800-1397061382.jpg?w=300"
+    },
+    {
+        "rank": 38,
+        "artist": "The Cranberries",
+        "title": "‘No Need to Argue’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140510-cranberries-1800-1397054979.jpg?w=300"
+    },
+    {
+        "rank": 37,
+        "artist": "Various Artists",
+        "title": "‘The Crow: Original Motion Picture Soundtrack’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140518-thecrow-1800-1397060863.jpg?w=300"
+    },
+    {
+        "rank": 36,
+        "artist": "Tori Amos",
+        "title": "‘Under the Pink’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140515-toriamos-1800-1397055514.jpg?w=300"
+    },
+    {
+        "rank": 35,
+        "artist": "Toadies",
+        "title": "‘Rubberneck’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140492-toadies-1800-1397052179.jpg?w=300"
+    },
+    {
+        "rank": 34,
+        "artist": "Neil Young and Crazy Horse",
+        "title": "‘Sleeps With Angels’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140506-neilyoung-1800-1397054657.jpg?w=300"
+    },
+    {
+        "rank": 33,
+        "artist": "Soul Coughing",
+        "title": "‘Ruby Vroom’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140491-rubyvroom-1800-1397051777.jpg?w=300"
+    },
+    {
+        "rank": 32,
+        "artist": "Dinosaur Jr.",
+        "title": "‘Without a Sound’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140517-dinosaurjr-1800-1397060785.jpg?w=300"
+    },
+    {
+        "rank": 31,
+        "artist": "Corrosion of Conformity",
+        "title": "‘Deliverance’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140500-deliverance-1800-1397054313.jpg?w=300"
+    },
+    {
+        "rank": 30,
+        "artist": "Various Artists",
+        "title": "‘Reality Bites: Original Motion Picture Soundtrack’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140516-realitybites-1800-1397057010.jpg?w=300"
+    },
+    {
+        "rank": 29,
+        "artist": "Smashing Pumpkins",
+        "title": "‘Pisces Iscariot’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140514-smashingpumpkins-1800-1397055355.jpg?w=300"
+    },
+    {
+        "rank": 28,
+        "artist": "Bad Religion",
+        "title": "‘Stranger Than Fiction’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140519-badreligion-1800-1397061325.jpg?w=300"
+    },
+    {
+        "rank": 27,
+        "artist": "Sugar",
+        "title": "‘File Under Easy Listening’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140509-sugar-1800-1397054923.jpg?w=300"
+    },
+    {
+        "rank": 26,
+        "artist": "Frank Black",
+        "title": "‘Teenager of the Year’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140493-frankblack-1800-1397052343.jpg?w=300"
+    },
+    {
+        "rank": 25,
+        "artist": "Rollins Band",
+        "title": "‘Weight’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140503-rollinsband-1800-1397054478.jpg?w=300"
+    },
+    {
+        "rank": 24,
+        "artist": "Rancid",
+        "title": "‘Let’s Go’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140497-rancid-1800-1397052945.jpg?w=300"
+    },
+    {
+        "rank": 23,
+        "artist": "Korn",
+        "title": "‘Korn’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140495-korn-1800-1397052845.jpg?w=300"
+    },
+    {
+        "rank": 22,
+        "artist": "Stone Temple Pilots",
+        "title": "‘Purple’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140484-stonetemplepilots-1800-1397049894.jpg?w=300"
+    },
+    {
+        "rank": 21,
+        "artist": "Veruca Salt",
+        "title": "‘American Thighs’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140485-verucasalt-1800-1397049950.jpg?w=300"
+    },
+    {
+        "rank": 20,
+        "artist": "Helmet",
+        "title": "‘Betty’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140494-helmet-1800-1397052794.jpg?w=300"
+    },
+    {
+        "rank": 19,
+        "artist": "Oasis",
+        "title": "‘Definitely Maybe’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140522-oasis-1800-1397061529.jpg?w=300"
+    },
+    {
+        "rank": 18,
+        "artist": "Liz Phair",
+        "title": "‘Whip-Smart’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140486-lizphair-1800-1397049995.jpg?w=300"
+    },
+    {
+        "rank": 17,
+        "artist": "Offspring",
+        "title": "‘Smash’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140508-offspring-1800-1397054764.jpg?w=300"
+    },
+    {
+        "rank": 16,
+        "artist": "Blur",
+        "title": "‘Parklife’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140499-blur-1800-1397053086.jpg?w=300"
+    },
+    {
+        "rank": 15,
+        "artist": "R.E.M.",
+        "title": "‘Monster’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140496-rem-1800-1397052892.jpg?w=300"
+    },
+    {
+        "rank": 14,
+        "artist": "Sonic Youth",
+        "title": "‘Experimental Jet Set, Trash and No Star’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140504-sonicyouth-1800-1397054559.jpg?w=300"
+    },
+    {
+        "rank": 13,
+        "artist": "Meat Puppets",
+        "title": "‘Too High to Die’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140483-meatpuppets-1800-1397049740.jpg?w=300"
+    },
+    {
+        "rank": 12,
+        "artist": "Alice in Chains",
+        "title": "‘Jar of Flies EP’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140511-jarofflies-1800-1397055040.jpg?w=300"
+    },
+    {
+        "rank": 11,
+        "artist": "Beck",
+        "title": "‘Mellow Gold’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140489-beck-1800-1397051425.jpg?w=300"
+    },
+    {
+        "rank": 10,
+        "artist": "Beastie Boys",
+        "title": "‘Ill Communication’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140488-beastieboys-1800-1397051357.jpg?w=300"
+    },
+    {
+        "rank": 9,
+        "artist": "Pearl Jam",
+        "title": "‘Vitalogy’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140490-vitalogy-1800-1397051598.jpg?w=300"
+    },
+    {
+        "rank": 8,
+        "artist": "Hole",
+        "title": "‘Live Through This’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140512-hole-1800-1397055183.jpg?w=300"
+    },
+    {
+        "rank": 7,
+        "artist": "Johnny Cash",
+        "title": "‘American Recordings’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140501-johnnycash-1800-1397054377.jpg?w=300"
+    },
+    {
+        "rank": 6,
+        "artist": "Soundgarden",
+        "title": "‘Superunknown’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140498-soundgarden-1800-1397053017.jpg?w=300"
+    },
+    {
+        "rank": 5,
+        "artist": "Nirvana",
+        "title": "‘MTV Unplugged in New York’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140507-nirvana-1800-1397054711.jpg?w=300"
+    },
+    {
+        "rank": 4,
+        "artist": "Jeff Buckley",
+        "title": "‘Grace’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140521-jeffbuckley-1800-1397061482.jpg?w=300"
+    },
+    {
+        "rank": 3,
+        "artist": "Weezer",
+        "title": "‘Weezer’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140487-weezer-1800-1397051115.jpg?w=300"
+    },
+    {
+        "rank": 2,
+        "artist": "Nine Inch Nails",
+        "title": "‘The Downward Spiral’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140502-nin-1800-1397054421.jpg?w=300"
+    },
+    {
+        "rank": 1,
+        "artist": "Green Day",
+        "title": "‘Dookie’",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-140505-greenday-1800-1397054610.jpg?w=300"
+    }
+]

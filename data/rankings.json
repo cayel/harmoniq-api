@@ -1,0 +1,30 @@
+[
+    {
+        "media": "Radio X",
+        "title": "The 25 best indie albums of 1992",
+        "year": 1992,
+        "url": "https://www.radiox.co.uk/features/x-lists/best-albums-1992/",
+        "file": "radio-x-1992.json"
+    },
+    {
+        "media": "Paste",
+        "title": "The 25 Best Albums of 1992",
+        "year": 1992,
+        "url": "https://www.pastemagazine.com/music/best-albums/best-albums-of-1992/",
+        "file": "86ab493c-af21-4778-a6cb-337205b22e6f.json"
+    },
+    {
+        "media": "Paste",
+        "title": "The 25 Best Albums of 1993",
+        "year": 1993,
+        "url": "https://www.pastemagazine.com/music/best-albums/best-albums-of-1993/",
+        "file": "1c765749-f838-4f15-ab33-68fe985b0d55.json"
+    },
+    {
+        "media": "RollingStone",
+        "title": "1994: THE 40 BEST RECORDS FROM MAINSTREAM ALTERNATIVE’S GREATEST YEAR",
+        "year": 1994,
+        "url": "https://www.rollingstone.com/music/music-lists/1994-the-40-best-records-from-mainstream-alternatives-greatest-year-29203/live-throwing-copper-168269/",
+        "file": "0701967e-1165-4b70-9dbd-478cf0bb1944.json"
+    }
+]

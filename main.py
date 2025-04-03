@@ -1,16 +1,37 @@
-
 import uvicorn
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
+from pathlib import Path
+from typing import List, Dict, Any
+import json
 
 app = FastAPI()
 
+# Précharger les données du fichier rankings.json
+RANKINGS_FILE = Path("data/rankings.json")
+rankings_data: List[Dict[str, Any]] = []
+
+if RANKINGS_FILE.exists():
+    with RANKINGS_FILE.open("r", encoding="utf-8") as file:
+        rankings_data = json.load(file)
+else:
+    print(f"Warning: {RANKINGS_FILE} not found. Rankings endpoint will return an error.")
+
 @app.get("/")
-async def root():
+async def root() -> Dict[str, str]:
+    """Endpoint racine pour vérifier que l'API fonctionne."""
     return {"message": "Hello from FastAPI!"}
 
 @app.get("/health")
-async def healthcheck():
+async def healthcheck() -> Dict[str, str]:
+    """Endpoint pour vérifier la santé de l'application."""
     return {"status": "ok"}
+
+@app.get("/rankings")
+async def get_rankings() -> List[Dict[str, Any]]:
+    """Endpoint pour récupérer les données des rankings."""
+    if not rankings_data:
+        raise HTTPException(status_code=404, detail="Rankings file not found")
+    return rankings_data
 
 if __name__ == "__main__":
     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
