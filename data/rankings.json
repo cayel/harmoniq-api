@@ -40,5 +40,12 @@
         "year": 1990,
         "url": "https://www.pastemagazine.com/article/best-albums-of-1990",
         "id": "c7bf1a5a-21ae-4075-9c3b-3a16f006ec1d"
+    },
+    {
+        "media": "NME",
+        "title": "The 50 Best Albums of 2024",
+        "year": 2024,
+        "url": "https://www.nme.com/lists/end-of-year/best-albums-2024-3818995",
+        "id": "312df3ad-33dc-4321-830a-7cb8420204ca"
     }
 ]
