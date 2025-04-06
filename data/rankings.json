@@ -62,5 +62,13 @@
         "url": "https://www.rollingstone.fr/2024-les-meilleurs-albums-de-la-redaction/",
         "id": "424513a7-cbee-4364-8403-e3c08b5f1f77",
         "country" : "France"
+    },
+    {
+        "media": "Mowno",
+        "title": "Bilan 2024 : les meilleurs albums de l'année",
+        "year": 2024,
+        "url": "https://www.mowno.com/articles/selection/bilan-2024-les-meilleurs-albums-et-morceaux-de-lannee/",
+        "id": "571695ef-042e-45ac-8d9a-4fb8c8b6b9a4",
+        "country" : "France"
     }
 ]
