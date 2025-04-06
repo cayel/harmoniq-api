@@ -4,48 +4,63 @@
         "title": "The 25 best indie albums of 1992",
         "year": 1992,
         "url": "https://www.radiox.co.uk/features/x-lists/best-albums-1992/",
-        "id": "7a2f25f4-470e-4abc-a8a3-133e838f6e93"
+        "id": "7a2f25f4-470e-4abc-a8a3-133e838f6e93",
+        "country": "UK"
     },
     {
         "media": "Paste",
         "title": "The 25 Best Albums of 1992",
         "year": 1992,
         "url": "https://www.pastemagazine.com/music/best-albums/best-albums-of-1992/",
-        "id": "86ab493c-af21-4778-a6cb-337205b22e6f"
+        "id": "86ab493c-af21-4778-a6cb-337205b22e6f",
+        "country": "US"
     },
     {
         "media": "Paste",
         "title": "The 25 Best Albums of 1993",
         "year": 1993,
         "url": "https://www.pastemagazine.com/music/best-albums/best-albums-of-1993/",
-        "id": "1c765749-f838-4f15-ab33-68fe985b0d55"
+        "id": "1c765749-f838-4f15-ab33-68fe985b0d55",
+        "country": "US"
     },
     {
         "media": "RollingStone",
         "title": "1994: THE 40 BEST RECORDS FROM MAINSTREAM ALTERNATIVE’S GREATEST YEAR",
         "year": 1994,
         "url": "https://www.rollingstone.com/music/music-lists/1994-the-40-best-records-from-mainstream-alternatives-greatest-year-29203/live-throwing-copper-168269/",
-        "id": "0701967e-1165-4b70-9dbd-478cf0bb1944"
+        "id": "0701967e-1165-4b70-9dbd-478cf0bb1944",
+        "country": "US"
     },
     {
         "media": "Paste",
         "title": "The 30 Best Albums of 1998",
         "year": 1998,
         "url": "https://www.pastemagazine.com/article/best-albums-of-1998",
-        "id": "009113c9-4828-45c8-baf7-b9382b37b0e8"
+        "id": "009113c9-4828-45c8-baf7-b9382b37b0e8",
+        "country": "US"
     },
     {
         "media": "Paste",
         "title": "The 30 Best Albums of 1990",
         "year": 1990,
         "url": "https://www.pastemagazine.com/article/best-albums-of-1990",
-        "id": "c7bf1a5a-21ae-4075-9c3b-3a16f006ec1d"
+        "id": "c7bf1a5a-21ae-4075-9c3b-3a16f006ec1d",
+        "country": "US"
     },
     {
         "media": "NME",
         "title": "The 50 Best Albums of 2024",
         "year": 2024,
         "url": "https://www.nme.com/lists/end-of-year/best-albums-2024-3818995",
-        "id": "312df3ad-33dc-4321-830a-7cb8420204ca"
+        "id": "312df3ad-33dc-4321-830a-7cb8420204ca",
+        "country"
+    },
+    {
+        "media": "RollingStone",
+        "title": "2024 : les meilleurs albums de la rédaction",
+        "year": 2024,
+        "url": "https://www.rollingstone.fr/2024-les-meilleurs-albums-de-la-redaction/",
+        "id": "424513a7-cbee-4364-8403-e3c08b5f1f77",
+        "country" : "France"
     }
 ]
