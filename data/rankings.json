@@ -70,5 +70,13 @@
         "url": "https://www.mowno.com/articles/selection/bilan-2024-les-meilleurs-albums-et-morceaux-de-lannee/",
         "id": "571695ef-042e-45ac-8d9a-4fb8c8b6b9a4",
         "country" : "France"
+    },
+    {
+        "media": "Mowno",
+        "title": "Bilan 2023 : les meilleurs albums de l'année",
+        "year": 2023,
+        "url": "https://www.mowno.com/articles/selection/bilan-2023-les-meilleurs-albums-et-morceaux-de-lannee/",
+        "id": "248dfc57-503b-4d80-bc37-e1dc664b3c68",
+        "country" : "France"
     }
 ]
