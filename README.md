@@ -33,12 +33,20 @@ API sera accessible à :
 
 
 ## 🛠️ Développement
+    
+### Tests
 
-Cette API utilise :
+Pour exécuter les tests unitaires :
 
-- FastAPI 0.115.12
-- Uvicorn 0.34.0
-- Pydantic 2.11.2
+```bash
+pytest
+```
+
+Pour exécuter les tests avec la couverture de code :
+
+```bash
+pytest --cov=main --cov-report=term-missing
+```
 
 ## 🚀 Déploiement
 
