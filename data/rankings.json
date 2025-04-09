@@ -78,5 +78,13 @@
         "url": "https://www.mowno.com/articles/selection/bilan-2023-les-meilleurs-albums-et-morceaux-de-lannee/",
         "id": "248dfc57-503b-4d80-bc37-e1dc664b3c68",
         "country" : "France"
+    },
+    {
+        "media": "Far Out",
+        "title": "The 50 best albums of 2024",
+        "year": 2024,
+        "url": "https://faroutmagazine.co.uk/the-50-best-albums-of-2024/",
+        "id": "4925cb92-cd10-4327-b8be-81d3b806488d",
+        "country" : "UK"
     }
 ]
