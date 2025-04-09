@@ -1,0 +1,602 @@
+[
+    {
+        "rank": 1,
+        "artist": "Magdalena Bay:",
+        "title": "Imaginal Disk",
+        "image": "https://undertheradarmag.com/uploads/list_images/1_Magdalena_Bay_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 2,
+        "artist": "Nilüfer Yanya",
+        "title": "My Method Actor",
+        "image": "https://undertheradarmag.com/uploads/list_images/2_Nilufer_Yanya_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 3,
+        "artist": "The Cure",
+        "title": "Songs of a Lost World",
+        "image": "https://undertheradarmag.com/uploads/list_images/3_The_Cure_Songs_of_a_Lost_World_Alone_album_cover_artwork_Top_100.png"
+    },
+    {
+        "rank": 4,
+        "artist": "Fontaines D.C.",
+        "title": "Romance",
+        "image": "https://undertheradarmag.com/uploads/list_images/4_Fontaines_DC_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 5,
+        "artist": "Nick Cave & The Bad Seeds",
+        "title": "Wild God",
+        "image": "https://undertheradarmag.com/uploads/list_images/5_Nick_Cave_and_the_Bad_Seeds_Wild_Dog_album_cover_artwork_Top_100.jpg"
+    },
+    {
+        "rank": 6,
+        "artist": "Cassandra Jenkins",
+        "title": "My Light, My Destroyer",
+        "image": "https://undertheradarmag.com/uploads/list_images/6_Cassandra_Jenkins_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 7,
+        "artist": "Father John Misty",
+        "title": "Mahashmashana",
+        "image": "https://undertheradarmag.com/uploads/list_images/7_Father_John_Misty_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 8,
+        "artist": "The Smile",
+        "title": "Wall of Eyes",
+        "image": "https://undertheradarmag.com/uploads/list_images/8_The-Smiile-Wall-Of-Eyes-album-cover-artwork_top_100.png"
+    },
+    {
+        "rank": 9,
+        "artist": "Adrianne Lenker",
+        "title": "Bright Future",
+        "image": "https://undertheradarmag.com/uploads/list_images/9_Adrianne_Lenker_Bright_Future_Top_100_Albums_of_2024_.jpg"
+    },
+    {
+        "rank": 10,
+        "artist": "Jessica Pratt",
+        "title": "Here in the Pitch",
+        "image": "https://undertheradarmag.com/uploads/list_images/10_Jessica_Pratt_Here_in_the_Pitch_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 11,
+        "artist": "Vampire Weekend",
+        "title": "Only God Was Above Us",
+        "image": "https://undertheradarmag.com/uploads/list_images/11_Vampire_Weekend_Only_God_Was_Above_Us_album_cover_artwork_Top_100.jpg"
+    },
+    {
+        "rank": 12,
+        "artist": "Charli XCX",
+        "title": "Brat",
+        "image": "https://undertheradarmag.com/uploads/list_images/12_Charli_XCX_Brat_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 13,
+        "artist": "The Last Dinner Party",
+        "title": "Prelude to Ecstasy",
+        "image": "https://undertheradarmag.com/uploads/list_images/13_The_Last_Dinner_Party_Prelude_to_Ecstasy_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 14,
+        "artist": "English Teacher",
+        "title": "This Could Be Texas",
+        "image": "https://undertheradarmag.com/uploads/list_images/14_English_Teacher_This_Could_Be_Texas_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 15,
+        "artist": "The WAEVE",
+        "title": "City Lights",
+        "image": "https://undertheradarmag.com/uploads/list_images/15_The_WAEVE_City_Lights_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 16,
+        "artist": "The Smile",
+        "title": "Cutouts",
+        "image": "https://undertheradarmag.com/uploads/list_images/16_The_Smile_Cutouts_Album_Cover_Artwork_Top_100_Albums.jpg"
+    },
+    {
+        "rank": 17,
+        "artist": "Waxahatchee",
+        "title": "Tigers Blood",
+        "image": "https://undertheradarmag.com/uploads/list_images/17_Waxahatchee_Tigers_Blood_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 18,
+        "artist": "Ride",
+        "title": "Interplay",
+        "image": "https://undertheradarmag.com/uploads/list_images/18_Ride_Interplay_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 19,
+        "artist": "Geordie Greep",
+        "title": "The New Sound",
+        "image": "https://undertheradarmag.com/uploads/list_images/19_Geordie_Greep_The_New_Sound_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 20,
+        "artist": "MEMORIALS",
+        "title": "Memorial Waterslides",
+        "image": "https://undertheradarmag.com/uploads/list_images/20_MEMORIALS_Memorial_Waterslides_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 21,
+        "artist": "Yard Act",
+        "title": "Where’s My Utopia?",
+        "image": "https://undertheradarmag.com/uploads/list_images/21_Yard_Act_Where%E2%80%99s_My_Utopia_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 22,
+        "artist": "Mount Eerie",
+        "title": "Night Palace",
+        "image": "https://undertheradarmag.com/uploads/list_images/22_Mount_Eerie_Night_Palace_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 23,
+        "artist": "Elbow",
+        "title": "AUDIO VERTIGO",
+        "image": "https://undertheradarmag.com/uploads/list_images/23_Elbow_AUDIO_VERTIGO_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 24,
+        "artist": "Loma",
+        "title": "How Will I Live Without a Body?",
+        "image": "https://undertheradarmag.com/uploads/list_images/24_Loma_How_Will_I_Live_Without_a_Body_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 25,
+        "artist": "Maya Hawke",
+        "title": "Chaos Angel",
+        "image": "https://undertheradarmag.com/uploads/list_images/25_Maya_Hawke_Chaos_Angel_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 26,
+        "artist": "Kim Gordon",
+        "title": "The Collective",
+        "image": "https://undertheradarmag.com/uploads/list_images/26_Kim_Gordon_The_Collective_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 27,
+        "artist": "John Grant",
+        "title": "The Art of the Lie",
+        "image": "https://undertheradarmag.com/uploads/list_images/27_John_Grant_The_Art_of_the_Lie_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 28,
+        "artist": "Laura Marling",
+        "title": "Patterns in Repeat",
+        "image": "https://undertheradarmag.com/uploads/list_images/28_Laura_Marling_Patterns_in_Repeat_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 29,
+        "artist": "DIIV",
+        "title": "Frog In Boiling Water",
+        "image": "https://undertheradarmag.com/uploads/list_images/29_DIIV_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 30,
+        "artist": "St. Vincent",
+        "title": "All Born Screaming",
+        "image": "https://undertheradarmag.com/uploads/list_images/30_St_Vincent_All_Born_Screaming_album_cover_artwork_Top_100.jpg"
+    },
+    {
+        "rank": 31,
+        "artist": "Mdou Moctar",
+        "title": "Funeral for Justice",
+        "image": "https://undertheradarmag.com/uploads/list_images/31_Mdou_Moctar_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 32,
+        "artist": "GIFT",
+        "title": "Illuminator",
+        "image": "https://undertheradarmag.com/uploads/list_images/32_GIFT_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 33,
+        "artist": "MJ Lenderman",
+        "title": "Manning Fireworks",
+        "image": "https://undertheradarmag.com/uploads/list_images/33_MJ_Lenderman_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 34,
+        "artist": "Peel Dream Magazine",
+        "title": "Rose Main Reading Room",
+        "image": "https://undertheradarmag.com/uploads/list_images/34_Peel_Dream_Magazine_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 35,
+        "artist": "Michael Kiwanuka",
+        "title": "Small Changes",
+        "image": "https://undertheradarmag.com/uploads/list_images/35_Michael_Kiwanuka_Small_Changes_album_cover_artwork_Top_100_Albums.jpg"
+    },
+    {
+        "rank": 36,
+        "artist": "Jack White",
+        "title": "No Name",
+        "image": "https://undertheradarmag.com/uploads/list_images/36_Jack_White_No_Name_Cover_Art_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 37,
+        "artist": "Jamie xx",
+        "title": "In Waves",
+        "image": "https://undertheradarmag.com/uploads/list_images/37_Jamie_xx_In_Waves_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 38,
+        "artist": "Future Islands",
+        "title": "People Who Aren’t There Anymore",
+        "image": "https://undertheradarmag.com/uploads/list_images/38_Future_Islands_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 39,
+        "artist": "Cindy Lee",
+        "title": "Diamond Jubilee",
+        "image": "https://undertheradarmag.com/uploads/list_images/39_Cindy_Lee_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 40,
+        "artist": "Camera Obscura",
+        "title": "Look to the East, Look to the West",
+        "image": "https://undertheradarmag.com/uploads/list_images/40_Camera_Obscura_Look_to_the_East_Look_to_the_West_Top_100_cover_artwork.jpg"
+    },
+    {
+        "rank": 41,
+        "artist": "Confidence Man",
+        "title": "3AM (LA LA LA)",
+        "image": "https://undertheradarmag.com/uploads/list_images/41_Confidence_Man_3_AM_LA_LA_LA_album_cover_artwork_Top_100.jpg"
+    },
+    {
+        "rank": 42,
+        "artist": "Mannequin Pussy",
+        "title": "I Got Heaven",
+        "image": "https://undertheradarmag.com/uploads/list_images/42_Mannequin_Pussy_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 43,
+        "artist": "Storefront Church",
+        "title": "Ink & Oil",
+        "image": "https://undertheradarmag.com/uploads/list_images/43_Storefront_Church_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 44,
+        "artist": "Kamasi Washington",
+        "title": "Fearless Movement",
+        "image": "https://undertheradarmag.com/uploads/list_images/44_Kamasi_Washington_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 45,
+        "artist": "Beth Gibbons",
+        "title": "Lives Outgrown",
+        "image": "https://undertheradarmag.com/uploads/list_images/45_Beth_Gibbons_Lives_Outgrown_album_cover_artwork_Top_100.jpg"
+    },
+    {
+        "rank": 46,
+        "artist": "Floating Points",
+        "title": "Cascade",
+        "image": "https://undertheradarmag.com/uploads/list_images/46_Floating_Points_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 47,
+        "artist": "Hinds",
+        "title": "VIVA HINDS",
+        "image": "https://undertheradarmag.com/uploads/list_images/48_Hinds_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 48,
+        "artist": "Caribou",
+        "title": "Honey",
+        "image": "https://undertheradarmag.com/uploads/list_images/47_caribou_honey_album_cover_artwork_Top_100.jpg"
+    },
+    {
+        "rank": 49,
+        "artist": "Ducks Ltd.",
+        "title": "Harm's Way",
+        "image": "https://undertheradarmag.com/uploads/list_images/49_Ducks_Ltd_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 50,
+        "artist": "Cheekface",
+        "title": "It's Sorted",
+        "image": "https://undertheradarmag.com/uploads/list_images/50_Cheekface_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 51,
+        "artist": "Julia Holter",
+        "title": "Something in the Room She Moves",
+        "image": "https://undertheradarmag.com/uploads/list_images/51_Julia_Holter_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 52,
+        "artist": "Kneecap",
+        "title": "Fine Art",
+        "image": "https://undertheradarmag.com/uploads/list_images/52_Kneecap_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 53,
+        "artist": "Faye Webster",
+        "title": "Underdressed at the Symphony",
+        "image": "https://undertheradarmag.com/uploads/list_images/53_Faye_Webster_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 54,
+        "artist": "The Decemberists",
+        "title": "As It Ever Was, So It Will Be Again",
+        "image": "https://undertheradarmag.com/uploads/list_images/54_The_Decemberists_As_It_Ever_Was_So_It_Will_Be_Again_album_cover_artwork_Top_100.jpg"
+    },
+    {
+        "rank": 55,
+        "artist": "SPRINTS",
+        "title": "Letter to Self",
+        "image": "https://undertheradarmag.com/uploads/list_images/55_SPRINTS_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 56,
+        "artist": "Everything Everything",
+        "title": "Mountainhead",
+        "image": "https://undertheradarmag.com/uploads/list_images/56_Everything_Everything_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 57,
+        "artist": "This Is Lorelei",
+        "title": "Box for Buddy, Box for Star",
+        "image": "https://undertheradarmag.com/uploads/list_images/57_This_Is_Lorelei_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 58,
+        "artist": "Amyl and the Sniffers",
+        "title": "Cartoon Darkness",
+        "image": "https://undertheradarmag.com/uploads/list_images/58_Amyl_and_The_Sniffers_Cartoon_Darkness_album_cover_artwork_Top_100.jpg"
+    },
+    {
+        "rank": 59,
+        "artist": "Primal Scream",
+        "title": "Come Ahead",
+        "image": "https://undertheradarmag.com/uploads/list_images/59_Primal_Scream_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 60,
+        "artist": "The Lemon Twigs",
+        "title": "A Dream Is All We Know",
+        "image": "https://undertheradarmag.com/uploads/list_images/60_The_Lemon_Twigs_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 61,
+        "artist": "Still Corners",
+        "title": "Dream Talk",
+        "image": "https://undertheradarmag.com/uploads/list_images/61_Still_Corners_Dream_Talk_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 62,
+        "artist": "Field Music",
+        "title": "Limits of Language",
+        "image": "https://undertheradarmag.com/uploads/list_images/62_Field_Music_Limits_of_Language_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 63,
+        "artist": "Clairo",
+        "title": "Charm",
+        "image": "https://undertheradarmag.com/uploads/list_images/63_Clairo_Charm_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 64,
+        "artist": "Goat Girl",
+        "title": "Below the Waste",
+        "image": "https://undertheradarmag.com/uploads/list_images/64_Goat_Girl_Below_the_Waste_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 65,
+        "artist": "Xiu Xiu",
+        "title": "13\" Frank Beltrame Italian Stiletto with Bison Horn Grips",
+        "image": "https://undertheradarmag.com/uploads/list_images/65_Xiu_Xiu_13_Frank_Beltrame_Italian_Stiletto_with_Bison_Horn_Grips_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 66,
+        "artist": "Khruangbin",
+        "title": "A LA SALA",
+        "image": "https://undertheradarmag.com/uploads/list_images/66_Khruangbin_A_LA_SALA_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 67,
+        "artist": "Tess Parks",
+        "title": "Pomegranate",
+        "image": "https://undertheradarmag.com/uploads/list_images/67_Tess_Parks_Pomegranate_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 68,
+        "artist": "Wild Pink",
+        "title": "Dulling the Horns",
+        "image": "https://undertheradarmag.com/uploads/list_images/68_Wild_Pink_Dulling_the_Horns_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 69,
+        "artist": "Bat For Lashes",
+        "title": "The Dream of Delphi",
+        "image": "https://undertheradarmag.com/uploads/list_images/69_Bat_For_Lashes_The_Dream_of_Delphi_album_cover_artwork_Top_100_Albums.jpg"
+    },
+    {
+        "rank": 70,
+        "artist": "The Linda Lindas",
+        "title": "No Obligation",
+        "image": "https://undertheradarmag.com/uploads/list_images/70_The_Linda_Lindas_No_Obligation_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 71,
+        "artist": "Pixies",
+        "title": "The Night the Zombies Came",
+        "image": "https://undertheradarmag.com/uploads/list_images/71_Pixies_The_Night_The_Zombies_Came_Cover_Art_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 72,
+        "artist": "Tindersticks",
+        "title": "Soft Tissue",
+        "image": "https://undertheradarmag.com/uploads/list_images/72_Tindersticks_Soft_Tissue_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 73,
+        "artist": "Desperate Journalist",
+        "title": "No Hero",
+        "image": "https://undertheradarmag.com/uploads/list_images/73_Desperate_Journalist_No_Hero_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 74,
+        "artist": "Soccer Mommy",
+        "title": "Evergreen",
+        "image": "https://undertheradarmag.com/uploads/list_images/74_Soccer_Mommy_Evergreen_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 75,
+        "artist": "The Jesus and Mary Chain",
+        "title": "Glasgow Eyes",
+        "image": "https://undertheradarmag.com/uploads/list_images/75_The_Jesus_and_Mary_Chain_Glasgow_Eyes_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 76,
+        "artist": "W.H. Lung",
+        "title": "Every Inch of Earth Pulsates",
+        "image": "https://undertheradarmag.com/uploads/list_images/76_WH_Lung_Every_Inch_of_Earth_Pulsates_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 77,
+        "artist": "Fat White Family",
+        "title": "Forgiveness Is Yours",
+        "image": "https://undertheradarmag.com/uploads/list_images/77_Fat_White_Family_Forgiveness_Is_Yours_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 78,
+        "artist": "King Gizzard & The Lizard Wizard",
+        "title": "b741",
+        "image": "https://undertheradarmag.com/uploads/list_images/78_King-Gizzard-Flight_b741_album_cover_artwork_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 79,
+        "artist": "Porridge Radio",
+        "title": "Clouds in the Sky They Will Always Be There For Me",
+        "image": "https://undertheradarmag.com/uploads/list_images/79_Porridge_Radio_Clouds_in_the_Sky_They_Will_Always_Be_There_For_Me_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 80,
+        "artist": "Charly Bliss",
+        "title": "FOREVER",
+        "image": "https://undertheradarmag.com/uploads/list_images/80_Charly_Bliss_Forever_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 81,
+        "artist": "Hamish Hawk",
+        "title": "A Firmer Hand",
+        "image": "https://undertheradarmag.com/uploads/list_images/81_Hamish_Hawk_A_Firmer_Hand_album_cover_artwork_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 82,
+        "artist": "Being Dead",
+        "title": "EELS",
+        "image": "https://undertheradarmag.com/uploads/list_images/82_Being_Dead_EELS_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 83,
+        "artist": "Good Looks",
+        "title": "Lived Here For a While",
+        "image": "https://undertheradarmag.com/uploads/list_images/83_Good_Looks_Lived_Here_For_a_While_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 84,
+        "artist": "MGMT",
+        "title": "Loss of Life",
+        "image": "https://undertheradarmag.com/uploads/list_images/84_MGMT_Loss_of_Life_album_cover_artwork_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 85,
+        "artist": "A Place to Bury Strangers",
+        "title": "Synthesizer",
+        "image": "https://undertheradarmag.com/uploads/list_images/85_A_Place_to_Bury_Strangers_Synthesizer_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 86,
+        "artist": "Babehoven",
+        "title": "Water’s Here in You",
+        "image": "https://undertheradarmag.com/uploads/list_images/86_Babehoven_Waters_Here_in_You_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 87,
+        "artist": "IDLES",
+        "title": "TANGK",
+        "image": "https://undertheradarmag.com/uploads/list_images/87_IDLES_TANGK_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 88,
+        "artist": "Personal Trainer",
+        "title": "Still Willing",
+        "image": "https://undertheradarmag.com/uploads/list_images/88_Personal_Trainer_Still_Willing_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 89,
+        "artist": "Katy J Pearson",
+        "title": "Someday, Now",
+        "image": "https://undertheradarmag.com/uploads/list_images/89_Katy_J_Pearson_Someday_Now_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 90,
+        "artist": "La Luz",
+        "title": "News of the Universe",
+        "image": "https://undertheradarmag.com/uploads/list_images/90_La_Luz_News_of_the_Universe_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 91,
+        "artist": "Naima Bock",
+        "title": "Below a Massive Dark Land",
+        "image": "https://undertheradarmag.com/uploads/list_images/91_Naima_Bock_Below_a_Massive_Dark_Land_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 92,
+        "artist": "Saint Etienne",
+        "title": "The Night",
+        "image": "https://undertheradarmag.com/uploads/list_images/92_Saint_Etienne_The_Night_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 93,
+        "artist": "Mary Timony",
+        "title": "Untame the Tiger",
+        "image": "https://undertheradarmag.com/uploads/list_images/93_Mary_Timony_Untame_the_Tiger_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 94,
+        "artist": "Grandaddy",
+        "title": "Blu Wav",
+        "image": "https://undertheradarmag.com/uploads/list_images/94_Grandaddy_Blu_Wav_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 95,
+        "artist": "Gruff Rhys",
+        "title": "Sadness Sets Me Free",
+        "image": "https://undertheradarmag.com/uploads/list_images/95_Gruff_Rhys_Sadness_Sets_Me_Free_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 96,
+        "artist": "Lauren Mayberry",
+        "title": "Vicious Creature",
+        "image": "https://undertheradarmag.com/uploads/list_images/96_Lauren_Mayberry_Vicious_Creature_Crocodile_Tears_album_cover_artwork_Top_100_Albums_of_2024.png"
+    },
+    {
+        "rank": 97,
+        "artist": "Silverbacks",
+        "title": "Easy Being a Winner",
+        "image": "https://undertheradarmag.com/uploads/list_images/97_Silverbacks_Easy_Being_a_Winner_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 98,
+        "artist": "Laetitia Sadier",
+        "title": "Rooting For Love",
+        "image": "https://undertheradarmag.com/uploads/list_images/98_Laetitia_Sadier_Rooting_For_Love_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 99,
+        "artist": "Arab Strap",
+        "title": "I'm totally fine with it don't give a fuck anymore",
+        "image": "https://undertheradarmag.com/uploads/list_images/99_Arab_Strap_Im_totally_fine_with_it_dont_give_a_fuck_anymore_Top_100_Albums_of_2024.jpg"
+    },
+    {
+        "rank": 100,
+        "artist": "Oceanator",
+        "title": "Everything is Love and Death",
+        "image": "https://undertheradarmag.com/uploads/list_images/100_Oceanator_Everything_is_Love_and_Death_Top_100_Albums_of_2024.jpg"
+    }
+]

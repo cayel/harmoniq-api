@@ -86,5 +86,13 @@
         "url": "https://faroutmagazine.co.uk/the-50-best-albums-of-2024/",
         "id": "4925cb92-cd10-4327-b8be-81d3b806488d",
         "country" : "UK"
+    },
+    {
+        "media": "Under The Radar",
+        "title": "Under the Radar’s Top 100 Albums of 2024",
+        "year": 2024,
+        "url": "https://www.undertheradarmag.com/lists/under_the_radars_top_100_albums_of_2024_part_1_1_50",
+        "id": "4a2c1bd5-a472-4a2d-9967-363d71f33a04",
+        "country" : "US"
     }
 ]
