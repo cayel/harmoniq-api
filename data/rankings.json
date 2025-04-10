@@ -94,5 +94,13 @@
         "url": "https://www.undertheradarmag.com/lists/under_the_radars_top_100_albums_of_2024_part_1_1_50",
         "id": "4a2c1bd5-a472-4a2d-9967-363d71f33a04",
         "country" : "US"
+    },
+    {
+        "media": "KCRW",
+        "title": "Best of 2024",
+        "year": 2024,
+        "url": "https://www.kcrw.com/best-of-2024/best-albums",
+        "id": "3bf201ca-866b-439a-888a-b7a220b2b950",
+        "country" : "US"
     }
 ]
