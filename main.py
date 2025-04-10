@@ -4,6 +4,7 @@ from pathlib import Path as FilePath  # Renommé pour éviter les conflits
 from typing import List, Dict, Any
 import json
 import uvicorn  # Ajout de l'importation de uvicorn
+from models import RankingsList, Ranking  # Assurez-vous que ce module est correctement importé
 
 app = FastAPI()
 
@@ -35,12 +36,12 @@ async def healthcheck() -> Dict[str, str]:
     """Endpoint pour vérifier la santé de l'application."""
     return {"status": "ok"}
 
-@app.get("/rankings")
-async def get_rankings() -> List[Dict[str, Any]]:
+@app.get("/rankings", response_model=RankingsList)
+async def get_rankings() -> RankingsList:
     """Endpoint pour récupérer les données des rankings."""
     if not rankings_data:
         raise HTTPException(status_code=404, detail="Rankings file not found")
-    return rankings_data
+    return RankingsList(rankings=[Ranking(**ranking) for ranking in rankings_data])
 
 @app.get("/albums/ranking/{guid}")
 async def get_album_ranking(
