@@ -1,0 +1,602 @@
+[
+    {
+        "rank": 1,
+        "artist": "Ratboys",
+        "title": "The Window",
+        "image": "https://undertheradarmag.com/uploads/list_images/Ratboys_The_Window_Best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 2,
+        "artist": "Sufjan Stevens",
+        "title": "Javelin",
+        "image": "https://undertheradarmag.com/uploads/list_images/Sufjan_Stevens_Javelin_Best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 3,
+        "artist": "Caroline Polachek",
+        "title": "Desire, I Want to Turn Into You",
+        "image": "https://undertheradarmag.com/uploads/list_images/Caroline_Polachek_Desire%2C_I_Want_to_Turn_Into_You_best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 4,
+        "artist": "Black Belt Eagle Scout",
+        "title": "The Land, The Water, The Sky",
+        "image": "https://undertheradarmag.com/uploads/list_images/Black_Belt_Eagle_Scout_The_Land%2C_The_Water%2C_The_Sky_Best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 5,
+        "artist": "Jessie Ware",
+        "title": "That! Feels Good!",
+        "image": "https://undertheradarmag.com/uploads/list_images/Jessie_Ware_That_Feels_Good_Pearls_album_cover_artwork_Best_of_%40023_cover.jpg"
+    },
+    {
+        "rank": 6,
+        "artist": "Slowdive",
+        "title": "everything is alive",
+        "image": "https://undertheradarmag.com/uploads/list_images/Slowdive-_everything_is_alive_best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 7,
+        "artist": "boygenius",
+        "title": "the record",
+        "image": "https://undertheradarmag.com/uploads/list_images/boygenius_the_record_best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 8,
+        "artist": "The WAEVE",
+        "title": "The WAEVE",
+        "image": "https://undertheradarmag.com/uploads/list_images/the_waeve_best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 9,
+        "artist": "Wednesday",
+        "title": "Rat Saw God",
+        "image": "https://undertheradarmag.com/uploads/list_images/wednesday_rat_saw_god_best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 10,
+        "artist": "Olivia Rodrigo",
+        "title": "GUTS",
+        "image": "https://undertheradarmag.com/uploads/list_images/Olivia_Rodrigo_GUTS_album_cover_artwork_best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 11,
+        "artist": "Mitski",
+        "title": "The Land Is Inhospitable and So Are We",
+        "image": "https://undertheradarmag.com/uploads/list_images/Mitski_The_Land_Is_Inhospitable_and_So_Are_We_Best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 12,
+        "artist": "Nation of Language",
+        "title": "Strange Disciple",
+        "image": "https://undertheradarmag.com/uploads/list_images/Nation_of_Language_Strange_Disciple_Best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 13,
+        "artist": "Caroline Rose",
+        "title": "The Art of Forgetting",
+        "image": "https://undertheradarmag.com/uploads/list_images/Caroline_Rose_The_Art_of_Forgetting_Best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 14,
+        "artist": "Miss Grit",
+        "title": "Follow the Cyborg",
+        "image": "https://undertheradarmag.com/uploads/list_images/Miss_Grit_Follow_The_Cyborg_Best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 15,
+        "artist": "Wilco",
+        "title": "Cousin",
+        "image": "https://undertheradarmag.com/uploads/list_images/Wilco_Cousin_Best_of_2023_cover_.jpg"
+    },
+    {
+        "rank": 16,
+        "artist": "Lana Del Rey",
+        "title": "Did you know that there's a tunnel under Ocean Blvd",
+        "image": "https://undertheradarmag.com/uploads/list_images/lana-del-rey-ocean-blvd-album-Best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 17,
+        "artist": "Bully",
+        "title": "Lucky for You",
+        "image": "https://undertheradarmag.com/uploads/list_images/Bully_Lucky_for_You_Best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 18,
+        "artist": "Blonde Redhead",
+        "title": "Sit Down for Dinner",
+        "image": "https://undertheradarmag.com/uploads/list_images/Blonde_Redhead_Sit_Down_For_Dinner_Best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 19,
+        "artist": "Alex Lahey",
+        "title": "The Answer Is Always Yes",
+        "image": "https://undertheradarmag.com/uploads/list_images/Alex_Lahey_The_Answer_Is_Always_Yes_Best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 20,
+        "artist": "Blondshell",
+        "title": "Blondshell",
+        "image": "https://undertheradarmag.com/uploads/list_images/Blondshell_self_titled_best_of_2023.jpg"
+    },
+    {
+        "rank": 21,
+        "artist": "Indigo De Souza",
+        "title": "All of This Will End",
+        "image": "https://undertheradarmag.com/uploads/list_images/Indigo_De_Souza-_All_of_This_Will_End_best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 22,
+        "artist": "Strange Ranger",
+        "title": "Pure Music",
+        "image": "https://undertheradarmag.com/uploads/list_images/Strange_Ranger-_Pure_Music_best_of_2023_cover_art.jpg"
+    },
+    {
+        "rank": 23,
+        "artist": "Paramore",
+        "title": "This Is Why",
+        "image": "https://undertheradarmag.com/uploads/list_images/Paramore_This_Is_Why_cover_Best_of_2023.png"
+    },
+    {
+        "rank": 24,
+        "artist": "IAN SWEET",
+        "title": "SUCKER",
+        "image": "https://undertheradarmag.com/uploads/list_images/IAN_SWEET_SUCKER_Best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 25,
+        "artist": "Yo La Tengo",
+        "title": "This Stupid World",
+        "image": "https://undertheradarmag.com/uploads/list_images/Yo_La_Tengo_This_Stupid_World_Best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 26,
+        "artist": "Jess Williamson",
+        "title": "Time Ain’t Accidental",
+        "image": "https://undertheradarmag.com/uploads/list_images/Jess_Williamson_Time_Ain%E2%80%99t_Accidental_Best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 27,
+        "artist": "John Cale",
+        "title": "MERCY",
+        "image": "https://undertheradarmag.com/uploads/list_images/John_Cale_MERCY_cover_Best_of_2023.jpg"
+    },
+    {
+        "rank": 28,
+        "artist": "Girl Ray",
+        "title": "Prestige",
+        "image": "https://undertheradarmag.com/uploads/list_images/Girl_Ray_Prestige_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 29,
+        "artist": "Lael Neale",
+        "title": "Star Eaters Delight",
+        "image": "https://undertheradarmag.com/uploads/list_images/Lael_Neale_Star_Eaters_Delight_Best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 30,
+        "artist": "Blur",
+        "title": "The Ballad of Darren",
+        "image": "https://undertheradarmag.com/uploads/list_images/Blur_The_Ballad_of_Darren_album_cover_artwork_Best_of_2023.jpg"
+    },
+    {
+        "rank": 31,
+        "artist": "Peter Gabriel",
+        "title": "i/o",
+        "image": "https://undertheradarmag.com/uploads/list_images/Peter_Gabriel_io_Best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 32,
+        "artist": "JPEGMAFIA & Danny Brown",
+        "title": "SCARING THE HOES",
+        "image": "https://undertheradarmag.com/uploads/list_images/JPEGMAFIA_and_Danny_Brown_SCARING_THE_HOES_Best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 33,
+        "artist": "Emma Anderson",
+        "title": "Pearlies",
+        "image": "https://undertheradarmag.com/uploads/list_images/Emma_Anderson_Pearlies_Best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 34,
+        "artist": "M83",
+        "title": "Fantasy",
+        "image": "https://undertheradarmag.com/uploads/list_images/M83_Fantasy_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 35,
+        "artist": "Art Feynman",
+        "title": "Be Good the Crazy Boys",
+        "image": "https://undertheradarmag.com/uploads/list_images/Art_Feynman_Be_Good_the_Crazy_Boys_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 36,
+        "artist": "Water From Your Eyes",
+        "title": "Everyone's Crushed",
+        "image": "https://undertheradarmag.com/uploads/list_images/Water_From_Your_Eyes_Everyone%E2%80%99s_Crushed_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 37,
+        "artist": "Palehound",
+        "title": "Eye on the Bat",
+        "image": "https://undertheradarmag.com/uploads/list_images/Palehound_Eye_on_the_Bat_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 38,
+        "artist": "Grian Chatten",
+        "title": "Chaos for the Fly",
+        "image": "https://undertheradarmag.com/uploads/list_images/Grian_Chatten_Chaos_For_The_Fly_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 39,
+        "artist": "This Is the Kit",
+        "title": "Careful of Your Keepers",
+        "image": "https://undertheradarmag.com/uploads/list_images/This_Is_The_Kit_Careful_of_Your_Keepers_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 40,
+        "artist": "Young Fathers",
+        "title": "Heavy Heavy",
+        "image": "https://undertheradarmag.com/uploads/list_images/Young_Fathers_Heavy_Heavy_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 41,
+        "artist": "Shame",
+        "title": "Food for Worms",
+        "image": "https://undertheradarmag.com/uploads/list_images/Shame_Food_for_Worms_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 42,
+        "artist": "The Lemon Twigs",
+        "title": "Everything Harmony",
+        "image": "https://undertheradarmag.com/uploads/list_images/The_Lemon_Twigs_Everything_Harmony_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 43,
+        "artist": "Margaret Glaspy",
+        "title": "Echo the Diamond",
+        "image": "https://undertheradarmag.com/uploads/list_images/Margaret_Glaspy-_Echo_the_Diamond_Best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 44,
+        "artist": "CMAT",
+        "title": "Crazymad, for Me",
+        "image": "https://undertheradarmag.com/uploads/list_images/CMAT-_Crazymad%2C_for_Me_Best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 45,
+        "artist": "Wild Nothing",
+        "title": "Hold",
+        "image": "https://undertheradarmag.com/uploads/list_images/Wild_Nothing_Hold_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 46,
+        "artist": "billy woods & Kenny Segal",
+        "title": "Maps",
+        "image": "https://undertheradarmag.com/uploads/list_images/Billy_Woods_and_Kenny_Segal_Maps_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 47,
+        "artist": "Sampha",
+        "title": "Lahai",
+        "image": "https://undertheradarmag.com/uploads/list_images/Sampha_Lahai_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 48,
+        "artist": "Mutual Benefit",
+        "title": "Growing at the Edges",
+        "image": "https://undertheradarmag.com/uploads/list_images/Mutual_Benefit-_Growing_at_the_Edges_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 49,
+        "artist": "Madeline Kenney",
+        "title": "A New Reality Mind",
+        "image": "https://undertheradarmag.com/uploads/list_images/Madeline_Kenney_A_New_Reality_Mind_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 50,
+        "artist": "Geese",
+        "title": "3D Country",
+        "image": "https://undertheradarmag.com/uploads/list_images/Geese-_3D_Country_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 51,
+        "artist": "Youth Lagoon",
+        "title": "Heaven Is a Junkyard",
+        "image": "https://undertheradarmag.com/uploads/list_images/Youth_Lagoon_Heaven_Is_a_Junkyard_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 52,
+        "artist": "PJ Harvey",
+        "title": "I Inside the Old Year Dying",
+        "image": "https://undertheradarmag.com/uploads/list_images/PJ_Harvey-_I_Inside_the_Old_Year_Dying_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 53,
+        "artist": "Jamila Woods",
+        "title": "Water Made Us",
+        "image": "https://undertheradarmag.com/uploads/list_images/Jamila_Woods_Water_Made_Us_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 54,
+        "artist": "Squirrel Flower",
+        "title": "Tomorrow’s Fire",
+        "image": "https://undertheradarmag.com/uploads/list_images/Squirrel_Flower_Tomorrow%E2%80%99s_Fire_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 55,
+        "artist": "Hotline TNT",
+        "title": "Cartwheel",
+        "image": "https://undertheradarmag.com/uploads/list_images/Hotline_TNT_Cartwheel_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 56,
+        "artist": "Squid",
+        "title": "O Monolith",
+        "image": "https://undertheradarmag.com/uploads/list_images/Squid_O_Monolith_Best_of_%40023_Cover.jpg"
+    },
+    {
+        "rank": 57,
+        "artist": "Steven Wilson",
+        "title": "The Harmony Codex",
+        "image": "https://undertheradarmag.com/uploads/list_images/Steven_Wilson_on_The_Harmony_Codex_album_cover_artwork-1-Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 58,
+        "artist": "Coach Party",
+        "title": "KILLJOY",
+        "image": "https://undertheradarmag.com/uploads/list_images/Coach_Party_KILLJOY_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 59,
+        "artist": "Kara Jackson",
+        "title": "Why Does The Earth Give Us People to Love?",
+        "image": "https://undertheradarmag.com/uploads/list_images/Kara_Jackson_Why_Does_The_Earth_Give_Us_People_to_Love_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 60,
+        "artist": "Jeff Rosenstock",
+        "title": "HELLMODE",
+        "image": "https://undertheradarmag.com/uploads/list_images/Jeff_Rosenstock_HELLMODE_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 61,
+        "artist": "The National",
+        "title": "Laugh Track",
+        "image": "https://undertheradarmag.com/uploads/list_images/the_national_Laugh_Track_Best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 62,
+        "artist": "Teenage Fanclub",
+        "title": "Nothing Lasts Forever",
+        "image": "https://undertheradarmag.com/uploads/list_images/Teenage_Fanclub_Nothing_Lasts_Forever_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 63,
+        "artist": "The Mountain Goats",
+        "title": "Jenny from Thebes",
+        "image": "https://undertheradarmag.com/uploads/list_images/The_Mountain_Goats_Jenny_from_Thebes_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 64,
+        "artist": "Foo Fighters",
+        "title": "But Here We Are",
+        "image": "https://undertheradarmag.com/uploads/list_images/Foo_Fighters_But_Here_We_Are_album_cover_artwork_Best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 65,
+        "artist": "Explosions in the Sky",
+        "title": "End",
+        "image": "https://undertheradarmag.com/uploads/list_images/Explosions_in_the_Sky_End_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 66,
+        "artist": "Cherry Glazerr",
+        "title": "I Don’t Want You Anymore",
+        "image": "https://undertheradarmag.com/uploads/list_images/Cherry_Glazerr_I_Don%E2%80%99t_Want_You_Anymore_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 67,
+        "artist": "El Michels Affair & Black Thought",
+        "title": "Glorious Game",
+        "image": "https://undertheradarmag.com/uploads/list_images/El_Michels_Affair__Black_Thought_Glorious_Game_Best_of_2023.jpg"
+    },
+    {
+        "rank": 68,
+        "artist": "The Clientele",
+        "title": "I Am Not There Anymore",
+        "image": "https://undertheradarmag.com/uploads/list_images/The_Clientele_I_Am_Not_There_Anymore_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 69,
+        "artist": "Slaughter Beach, Dog",
+        "title": "Crying, Laughing, Waving, Smiling",
+        "image": "https://undertheradarmag.com/uploads/list_images/Crying%2C_Laughing%2C_Waving%2C_Smiling_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 70,
+        "artist": "Julie Byrne",
+        "title": "The Greater Wings",
+        "image": "https://undertheradarmag.com/uploads/list_images/Julie_Byrne-_The_Greater_Wings_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 71,
+        "artist": "Arlo Parks",
+        "title": "My Soft Machine",
+        "image": "https://undertheradarmag.com/uploads/list_images/Arlo_Parks_My_Soft_Machine_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 72,
+        "artist": "Lanterns on the Lake",
+        "title": "Versions of Us",
+        "image": "https://undertheradarmag.com/uploads/list_images/Lanterns_on_the_Lake_Versions_of_Us_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 73,
+        "artist": "Drop Nineteens",
+        "title": "Hard Light",
+        "image": "https://undertheradarmag.com/uploads/list_images/Drop_Nineteens_Hard_Light_Wharf_Cat_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 74,
+        "artist": "Belle and Sebastian",
+        "title": "Late Developers",
+        "image": "https://undertheradarmag.com/uploads/list_images/Belle_and_Sebastian_Late_Developers_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 75,
+        "artist": "Metric",
+        "title": "Formentera II",
+        "image": "https://undertheradarmag.com/uploads/list_images/Metric_Formentera_II_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 76,
+        "artist": "Murray A. Lightburn",
+        "title": "Once Upon a Time in Montréal",
+        "image": "https://undertheradarmag.com/uploads/list_images/Murray_A_Lightburn_Once_Upon_a_Time_in_Montreal_The_Dears_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 77,
+        "artist": "U.S. Girls",
+        "title": "Bless This Mess",
+        "image": "https://undertheradarmag.com/uploads/list_images/US_Girls_Bless_This_Mess_4AD_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 78,
+        "artist": "Yves Tumor",
+        "title": "Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds)",
+        "image": "https://undertheradarmag.com/uploads/list_images/Yves_Tumor_Praise_A_Lord_Who_Chews_But_Which_Does_Not_Consume_Or_Simply_Hot_Between_Worlds_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 79,
+        "artist": "The Murder Capital",
+        "title": "Gigi’s Recovery",
+        "image": "https://undertheradarmag.com/uploads/list_images/The_Murder_Capital_Gigis_Recovery_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 80,
+        "artist": "Fenne Lily",
+        "title": "Big Picture",
+        "image": "https://undertheradarmag.com/uploads/list_images/Fenne_Lily_Big_Picture_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 81,
+        "artist": "Sparks",
+        "title": "The Girl Is Crying In Her Latte",
+        "image": "https://undertheradarmag.com/uploads/list_images/sparks-girl-is-crying-in-her-latte-single-song_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 82,
+        "artist": "A. Savage",
+        "title": "Several Songs About Fire",
+        "image": "https://undertheradarmag.com/uploads/list_images/A_Savage_Several_Songs_About_Fire_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 83,
+        "artist": "Jenny Lewis",
+        "title": "Joy’All",
+        "image": "https://undertheradarmag.com/uploads/list_images/Jenny_Lewis_Joy_All_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 84,
+        "artist": "Wings of Desire",
+        "title": "Life is Infinite",
+        "image": "https://undertheradarmag.com/uploads/list_images/Wings_of_Desire_Life_is_Infinite_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 85,
+        "artist": "Samia",
+        "title": "Honey",
+        "image": "https://undertheradarmag.com/uploads/list_images/Samia_Honey_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 86,
+        "artist": "bdrmm",
+        "title": "I Don’t Know",
+        "image": "https://undertheradarmag.com/uploads/list_images/bdrmm_I_Don%E2%80%99t_Know_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 87,
+        "artist": "Jaakko Eino Kalevi",
+        "title": "Chaos Magic",
+        "image": "https://undertheradarmag.com/uploads/list_images/Jaakko_Eino_Kalevi_Chaos_Magic_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 88,
+        "artist": "Andy Shauf",
+        "title": "Norm",
+        "image": "https://undertheradarmag.com/uploads/list_images/Andy_Shauf_Norm_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 89,
+        "artist": "ANOHNI and the Johnsons",
+        "title": "My Back Was a Bridge for You to Cross",
+        "image": "https://undertheradarmag.com/uploads/list_images/ANOHNI_and_the_Johnsons_My_Back_Was_a_Bridge_For_You_to_Cross_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 90,
+        "artist": "H. Hawkline",
+        "title": "Milk For Flowers",
+        "image": "https://undertheradarmag.com/uploads/list_images/H_Hawkline_Milk_For_Flowers_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 91,
+        "artist": "Braids",
+        "title": "Euphoric Recall",
+        "image": "https://undertheradarmag.com/uploads/list_images/Braids_Euphoric_Recall_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 92,
+        "artist": "Mandy, Indiana",
+        "title": "i’ve seen a way",
+        "image": "https://undertheradarmag.com/uploads/list_images/Mandy_Indiana_i%E2%80%99ve_seen_a_way_Best_of_2023_Cover_art.jpg"
+    },
+    {
+        "rank": 93,
+        "artist": "Amber Arcades",
+        "title": "Barefoot on Diamond Road",
+        "image": "https://undertheradarmag.com/uploads/list_images/Amber_Arcades_Barefoot_on_Diamond_Road_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 94,
+        "artist": "Mega Bog",
+        "title": "End of Everything",
+        "image": "https://undertheradarmag.com/uploads/list_images/Mega_Bog_End_of_Everything_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 95,
+        "artist": "Slow Pulp",
+        "title": "Yard",
+        "image": "https://undertheradarmag.com/uploads/list_images/Slow_Pulp_Yard_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 96,
+        "artist": "Baxter Dury",
+        "title": "I Thought I Was Better Than You",
+        "image": "https://undertheradarmag.com/uploads/list_images/Baxter_Dury_I_Thought_I_Was_Better_Than_You_Best_of_2023_cover.jpg"
+    },
+    {
+        "rank": 97,
+        "artist": "bar italia",
+        "title": "Tracey Denim",
+        "image": "https://undertheradarmag.com/uploads/list_images/bar_italia_Tracey_Denim_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 98,
+        "artist": "The New Pornographers",
+        "title": "Continue as a Guest",
+        "image": "https://undertheradarmag.com/uploads/list_images/The_New_Pornographers_Continue_as_a_Guest_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 99,
+        "artist": "Modern Nature",
+        "title": "No Fixed Point in Space",
+        "image": "https://undertheradarmag.com/uploads/list_images/Modern_Nature_No_Fixed_Point_in_Space_Best_of_2023_Cover.jpg"
+    },
+    {
+        "rank": 100,
+        "artist": "Sen Morimoto",
+        "title": "Diagnosis",
+        "image": "https://undertheradarmag.com/uploads/list_images/Sen_Morimoto_Diagnosis_Best_of_2023_Cover.jpg"
+    }
+]
